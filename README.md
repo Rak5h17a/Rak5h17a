@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🔭 I’m currently working on: Machine Learning models, LangChain, and Large Language Models (LLMs), focusing on their applications in AI-driven solutions.
+🌱 I’m currently learning: Advanced Machine Learning concepts and model architectures, deepening my understanding of their implementation and optimization.
 <!--
 **Rak5h17a/Rak5h17a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
